@@ -343,7 +343,7 @@ const Envelope: React.FC<EnvelopeProps> = () => {
                     >
                       <p className="heading-text text-xl text-pink-500 mb-8 text-justify leading-relaxed">
                         For the most special girl in my life and for the one who
-                        fills my life with live and joy.
+                        fills my life with love and joy.
                       </p>
 
                       <button
